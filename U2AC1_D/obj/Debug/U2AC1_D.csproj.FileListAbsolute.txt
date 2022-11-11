@@ -1,0 +1,8 @@
+Z:\visual\U2AC1_D\U2AC1_D\bin\Debug\U2AC1_D.exe.config
+Z:\visual\U2AC1_D\U2AC1_D\bin\Debug\U2AC1_D.exe
+Z:\visual\U2AC1_D\U2AC1_D\bin\Debug\U2AC1_D.pdb
+Z:\visual\U2AC1_D\U2AC1_D\obj\Debug\U2AC1_D.csproj.AssemblyReference.cache
+Z:\visual\U2AC1_D\U2AC1_D\obj\Debug\U2AC1_D.csproj.SuggestedBindingRedirects.cache
+Z:\visual\U2AC1_D\U2AC1_D\obj\Debug\U2AC1_D.csproj.CoreCompileInputs.cache
+Z:\visual\U2AC1_D\U2AC1_D\obj\Debug\U2AC1_D.exe
+Z:\visual\U2AC1_D\U2AC1_D\obj\Debug\U2AC1_D.pdb
